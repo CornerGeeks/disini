@@ -39,7 +39,22 @@ require_once("header.php");
 
 
 <div id="content1" class="tab-pane active">
-Content here
+<ul class="media-list span6">
+<li class="media">
+	<div class="pull-left span2">
+	<a class="btn btn-block btn-success btn-large" href="#">
+      Enabled
+    </a>
+    <a class="btn btn-block btn-success btn-large" href="#">
+      Enabled
+    </a>
+    </div>
+    <div class="media-body">
+      <h4 class="media-heading">Thing for sale</h4>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed massa quam, a tincidunt purus. Sed eget nulla at tellus consectetur tincidunt id at urna. Donec ac convallis lectus. In ac gravida nibh. Donec sit amet aliquam felis. Curabitur a felis lacus. In in purus dolor. Maecenas dui sem, iaculis et ultrices non, semper non neque. Duis sed odio augue. Nam ipsum libero, egestas vitae gravida nec, lobortis et nibh. Praesent euismod vestibulum augue, ut porttitor est sodales ut.</p>
+    </div>
+</li>
+</ul>
 </div>
 
 <div id="content2" class="tab-pane">
